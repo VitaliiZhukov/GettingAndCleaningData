@@ -1,1 +1,84 @@
+Code book.
+"subjectID" Identificator of a person whose measurments are taken. 
+"activityID" Identificator of one of 6 types of activities.
+"tBodyAcc-mean()-X" A mean of body acceleration signal values in time domain by X axis. 
+"tBodyAcc-mean()-Y" A mean of body acceleration signal values in time domain by Y axis.
+"tBodyAcc-mean()-Z" A mean of body acceleration signal values in time domain by Z axis.
+"tBodyAcc-std()-X" A standard deviation of body acceleration signal values in time domain by X axis.
+"tBodyAcc-std()-Y" A standard deviation of body acceleration signal values in time domain by Y axis.
+"tBodyAcc-std()-Z" A standard deviation of body acceleration signal values in time domain by Z axis.
+"tGravityAcc-mean()-X" A mean of gravity acceleration signal values in time domain by X axis.
+"tGravityAcc-mean()-Y" A mean of gravity acceleration signal values in time domain by Y axis.
+"tGravityAcc-mean()-Z" A mean of gravity acceleration signal values in time domain by Z axis.
+"tGravityAcc-std()-X" A standard deviation of gravity acceleration signal values in time domain by X axis.
+"tGravityAcc-std()-Y" A standard deviation of gravity acceleration signal values in time domain by Y axis.
+"tGravityAcc-std()-Z" A standard deviation of gravity acceleration signal values in time domain by Z axis.
+"tBodyAccJerk-mean()-X" A mean of body with jerk acceleration signal values in time domain by X axis. 
+"tBodyAccJerk-mean()-Y" A mean of body with jerk acceleration signal values in time domain by Y axis. 
+"tBodyAccJerk-mean()-Z" A mean of body with jerk acceleration signal values in time domain by Z axis. 
+"tBodyAccJerk-std()-X" A standard deviation of body with jerk acceleration signal values in time domain by X axis. 
+"tBodyAccJerk-std()-Y" A standard deviation of body with jerk acceleration signal values in time domain by Y axis. 
+"tBodyAccJerk-std()-Z" A standard deviation of body with jerk acceleration signal values in time domain by Z axis. 
+"tBodyGyro-mean()-X" A mean of body gyroscope signal values in time domain by X axis. 
+"tBodyGyro-mean()-Y" A mean of body gyroscope signal values in time domain by Y axis. 
+"tBodyGyro-mean()-Z" A mean of body gyroscope signal values in time domain by Z axis. 
+"tBodyGyro-std()-X" A standard deviation of body gyroscope signal values in time domain by X axis. 
+"tBodyGyro-std()-Y" A standard deviation of body gyroscope signal values in time domain by Y axis. 
+"tBodyGyro-std()-Z" A standard deviation of body gyroscope signal values in time domain by Z axis. 
+"tBodyGyroJerk-mean()-X" A mean of body with jerk gyroscope signal values in time domain by X axis. 
+"tBodyGyroJerk-mean()-Y" A mean of body with jerk gyroscope signal values in time domain by Y axis. 
+"tBodyGyroJerk-mean()-Z" A mean of body with jerk gyroscope signal values in time domain by Z axis. 
+"tBodyGyroJerk-std()-X" A standard deviation of body with jerk gyroscope signal values in time domain by X axis. 
+"tBodyGyroJerk-std()-Y" A standard deviation of body with jerk gyroscope signal values in time domain by Y axis. 
+"tBodyGyroJerk-std()-Z" A standard deviation of body with jerk gyroscope signal values in time domain by Z axis. 
+"tBodyAccMag-mean()" A mean of body acceleration signal values in time domain. 
+"tBodyAccMag-std()" A standard deviation of body acceleration signal values in time domain.
+"tGravityAccMag-mean()" A mean of gravity acceleration signal values in time domain.
+"tGravityAccMag-std()" A standard deviation of gravity acceleration signal values in time domain.
+"tBodyAccJerkMag-mean()" A mean of body with acceleration signal values in time domain.
+"tBodyAccJerkMag-std()" A standard deviation of body with jerk acceleration signal values in time domain.
+"tBodyGyroMag-mean()" A mean of body gyroscope signal values in time domain.
+"tBodyGyroMag-std()" A standard deviation of body gyroscope signal values in time domain.
+"tBodyGyroJerkMag-mean()" A mean of body with jerk gyroscope signal values in time domain.
+"tBodyGyroJerkMag-std()" A standard deviation of body with jerk gyroscope signal values in time domain.
+"fBodyAcc-mean()-X" A mean of body acceleration signal values in frequency domain by X axis.
+"fBodyAcc-mean()-Y" A mean of body acceleration signal values in frequency domain by Y axis.
+"fBodyAcc-mean()-Z" A mean of body acceleration signal values in frequency domain by Z axis.
+"fBodyAcc-std()-X" A standard deviation of body acceleration signal values in frequency domain by X axis.
+"fBodyAcc-std()-Y" A standard deviation of body acceleration signal values in frequency domain by Y axis.
+"fBodyAcc-std()-Z" A standard deviation of body acceleration signal values in frequency domain by Z axis.
+"fBodyAcc-meanFreq()-X" Weighted average of the frequency components to obtain a mean frequency of body acceleration signal by X.
+"fBodyAcc-meanFreq()-Y" Weighted average of the frequency components to obtain a mean frequency of body acceleration signal by Y.
+"fBodyAcc-meanFreq()-Z" Weighted average of the frequency components to obtain a mean frequency of body acceleration signal by Z.
+"fBodyAccJerk-mean()-X" A mean of body with jerk acceleration signal values in frequency domain by X axis.
+"fBodyAccJerk-mean()-Y" A mean of body with jerk acceleration signal values in frequency domain by Y axis.
+"fBodyAccJerk-mean()-Z" A mean of body with jerk acceleration signal values in frequency domain by Z axis.
+"fBodyAccJerk-std()-X" A standard deviation of body with jerk acceleration signal values in frequency domain by X axis.
+"fBodyAccJerk-std()-Y" A standard deviation of body with jerk acceleration signal values in frequency domain by Y axis.
+"fBodyAccJerk-std()-Z" A standard deviation of body with jerk acceleration signal values in frequency domain by Z axis.
+"fBodyAccJerk-meanFreq()-X" Weighted average of the frequency components to obtain a mean frequency of body with jerk acceleration signal by X.
+"fBodyAccJerk-meanFreq()-Y" Weighted average of the frequency components to obtain a mean frequency of body with jerk acceleration signal by Y.
+"fBodyAccJerk-meanFreq()-Z" Weighted average of the frequency components to obtain a mean frequency of body with jerk acceleration signal by Z.
+"fBodyGyro-mean()-X" A mean of body gyroscope signal values in frequency domain by X axis.
+"fBodyGyro-mean()-Y" A mean of body gyroscope signal values in frequency domain by Y axis.
+"fBodyGyro-mean()-Z" A mean of body gyroscope signal values in frequency domain by Z axis.
+"fBodyGyro-std()-X" A standard deviation of body gyroscope signal values in frequency domain by X axis.
+"fBodyGyro-std()-Y" A standard deviation of body gyroscope signal values in frequency domain by Y axis.
+"fBodyGyro-std()-Z" A standard deviation of body gyroscope signal values in frequency domain by Z axis.
+"fBodyGyro-meanFreq()-X" Weighted average of the frequency components to obtain a mean frequency of body gyroscope signal by X.
+"fBodyGyro-meanFreq()-Y" Weighted average of the frequency components to obtain a mean frequency of body gyroscope signal by Y.
+"fBodyGyro-meanFreq()-Z" Weighted average of the frequency components to obtain a mean frequency of body gyroscope signal by Z.
+"fBodyAccMag-mean()" A mean of body acceleration signal values in frequency domain.
+"fBodyAccMag-std()" A standard deviation of body acceleration signal values in frequency domain.
+"fBodyAccMag-meanFreq()" Weighted average of the frequency components to obtain a mean frequency of body acceleration signal.
+"fBodyBodyAccJerkMag-mean()" A mean of body with jerk acceleration signal values in frequency domain.
+"fBodyBodyAccJerkMag-std()" A standard deviation of body with jerk acceleration signal values in frequency domain.
+"fBodyBodyAccJerkMag-meanFreq()" Weighted average of the frequency components to obtain a mean frequency of body with jerk acceleration signal.
+"fBodyBodyGyroMag-mean()" A mean of body gyroscope signal values in frequency domain.
+"fBodyBodyGyroMag-std()" A standard deviation of body gyroscope signal values in frequency domain.
+"fBodyBodyGyroMag-meanFreq()" Weighted average of the frequency components to obtain a mean frequency of body gyroscope signal.
+"fBodyBodyGyroJerkMag-mean()" A mean of body with jerk gyroscope signal values in frequency domain.
+"fBodyBodyGyroJerkMag-std()" A standard deviation of body with jerk gyroscope signal values in frequency domain.
+"fBodyBodyGyroJerkMag-meanFreq()" Weighted average of the frequency components to obtain a mean frequency of body with jerk gyroscope signal.
+"activity_labels" Descriptive values of activities.
 
