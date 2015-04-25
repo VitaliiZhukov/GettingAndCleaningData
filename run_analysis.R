@@ -32,9 +32,8 @@ for (i in 1:30){
   }
 }
 colnames(newDS)<-colnames(dataset)
+newDS$activity_labels<-activities[newDS$activityID,2]
 write.table(newDS,file="newDS.txt",row.name=FALSE)
-
-neDS$activity_labels<-activities[newDS$activityID,2]
 
 return(newDS)
 }
